@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aido77
- - i dont know how code, like at all help
- - i now have to do a machine learning project for my a level comp sci
- - it is not going well
- - aa
+Yellow, its me, ada!!1!
+
+I don't really know much at all, but i gotta learn because uni is kicking my ass :P
+
+yup
 <!---
 aido77/aido77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
